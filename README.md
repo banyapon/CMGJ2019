@@ -7,7 +7,7 @@ Open Unity 2019.2.0f1 (Install from Unity Hub)
 ![alt text](http://daydev.com/api/step1.png)
 2. When Project ready Clone this reposity with command:
 >git clone https://github.com/banyapon/CMGJ2019.git
-3. Replace every things in Assets Folder with all source in repository.
+3. Replace every things in Assets Folder with all sources in this repository.
 ![alt text](http://daydev.com/api/step2.png)
 
 For Sure:
